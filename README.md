@@ -2,15 +2,7 @@
 
 A futuristic, responsive weather application built with React.js and the OpenWeather API. Search for a city to view live conditions on an interactive dashboard with animated gauges and a sky that changes colour with the weather.
 
-<p align="center">
-  <a href="https://weather-r70z5iymb-sahirparmar27.vercel.app/">
-    <strong>🌐 View Live Demo</strong>
-  </a>
-  &nbsp; | &nbsp;
-  <a href="https://github.com/sahirparmar27/weather-app">
-    <strong>💻 View Source Code</strong>
-  </a>
-</p>
+
 
 ---
 
